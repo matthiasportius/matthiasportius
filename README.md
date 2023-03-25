@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY5N2I4MTY0YTZhMGU2ZWFlY2ZjZjJiMDgwMzUxMmYyZjAyOWMwYSZjdD1z/fwbzI2kV3Qrlpkh59e/giphy.gif" width="150" />
   <div id="badges">
     <a href="LinkedIn-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,19 +6,16 @@
     <a href="LeetCode-URL">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=matthiasportius&style=flat-square&color=blue" alt="View Counter"/>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=matthiasportius&style=flat-square&color=blue" alt="View Counter"/>
+  <div id="header-img">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="350"/></br>
+    IT-interested Scientist with a Chemistry background - *I love to find solutions*
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
-</div>
 
----
-👨‍💻 About me:
-- fsdkg
-- gdsklj
-- gksdjk
+
 
 ---
 ### 🛠️ Languages and Tools:
@@ -34,7 +30,7 @@
 
 ### 🔥 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasportius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasportius&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
