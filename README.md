@@ -11,6 +11,30 @@
   <img src="https://komarev.com/ghpvc/?username=matthiasportius&style=flat-square&color=blue" alt="View Counter"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
+</div>
+
+---
+👨‍💻 About me:
+- fsdkg
+- gdsklj
+- gksdjk
+
+---
+### 🛠️ Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+---
+
+### 🔥 My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasportius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
