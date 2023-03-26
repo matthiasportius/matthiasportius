@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/matthias-portius-61a3181a8" target="_blank">
+    <a href="https://www.linkedin.com/in/matthias-portius-61a3181a8">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="LeetCode-URL">
+    <a href="https://leetcode.com/MatthiasP/">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=matthiasportius&style=flat-square&color=blue" alt="View Counter"/>
