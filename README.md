@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/matthias-portius-61a3181a8">
+    <a href="www.linkedin.com/in/matthias-ueberham-61a3181a8">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/MatthiasP/">
